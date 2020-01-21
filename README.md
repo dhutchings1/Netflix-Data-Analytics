@@ -12,4 +12,4 @@ The goal of this project was use my skills in python, pandas, sql and statistics
 #### 7. Who are the top 10 most featured actors in American movies?
 
 ##
-This repo contains the ipynb file and the data in a csv file
+This repo contains the ipynb file, the data in a csv file, and a Tableau Worksheet with additional visualizations
